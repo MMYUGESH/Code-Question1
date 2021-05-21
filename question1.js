@@ -52,7 +52,7 @@ for(p=0;p<len.length;p++)
         res.push(temp)
     }
 }
-console.log(res)
+//console.log(res)
 var final=[];
 for(l=0;l<res.length;l++)
 {
@@ -61,7 +61,7 @@ for(l=0;l<res.length;l++)
     var join = (joining.join(""))
     final.push(join)
 }
-console.log(final)
+//console.log(final)
 var count=[];
 
  let feq={};
