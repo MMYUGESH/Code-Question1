@@ -21,8 +21,7 @@ for (i = 1; i <= n; i++) {
 var n=7;
 var array=[6,6,3,9,3,5,1];
 var total=12;
-var a = [...array]
- console.log(...a)
+
 var ary=[],len=[];
      for(let i=0;i<array.length-1;i++)
 {
